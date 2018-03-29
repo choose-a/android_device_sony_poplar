@@ -67,17 +67,9 @@ PRODUCT_PACKAGES += \
     init.recovery.poplar \
     init.poplar
 
-# Lights
-PRODUCT_PACKAGES += \
-    lights.poplar
-
 # Simple PowerHAL
 PRODUCT_PACKAGES += \
     power.poplar
-
-# Fingerprint HAL
-PRODUCT_PACKAGES += \
-    fingerprint.poplar
 
 # NFC config
 PRODUCT_PACKAGES += \
