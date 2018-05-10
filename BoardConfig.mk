@@ -14,10 +14,7 @@
 
 include device/sony/yoshino-common/PlatformConfig.mk
 
-TARGET_BOOTLOADER_BOARD_NAME := G8341
-
-# Platform
-PRODUCT_PLATFORM := yoshino
+TARGET_BOOTLOADER_BOARD_NAME := yoshino
 
 # NFC
 NXP_CHIP_TYPE := PN553
